@@ -1,19 +1,19 @@
 # Lecture 2: Anatomy of a Graphics Program
 
-Detailed explanation of this code can be found in the lecture video (will be added after class).
+Detailed explanation of this code can be found in the lecture [video](https://mediaspace.umn.edu/media/t/1_wpvnlxfz).
 
 You can run the program on [GitHub pages](https://csci-4611-fall-2022.github.io/Lecture-2).
 
 ## Prerequisites
 
-To work with this code, you will first need to install [Node.js](https://nodejs.org/en/) and [Visual Studio Code](https://code.visualstudio.com/). 
+To work with this code, you will first need to install [Node.js 16.17.0 LTS](https://nodejs.org/en/) and [Visual Studio Code](https://code.visualstudio.com/). 
 
 I also recommend you install the following useful VS Code extensions:
 
-- GitLens (makes source control easier)
-- ESLint (static code analysis tool that can flag errors)
-- JavaScript Debugger (essential for real-time debugging)
-- WebGL GLSL Editor (used for programming shaders later in the course)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) (makes source control easier)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) (static code analysis tool that can flag errors)
+- [JavaScript Debugger](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) (essential for real-time debugging)
+- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (used for programming shaders later in the course)
 
 ## Topics
 

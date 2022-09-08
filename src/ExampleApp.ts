@@ -19,8 +19,6 @@ export class ExampleApp extends gfx.GfxApp
        this.exampleRectangle.scale.y = 0.1;
        this.scene.add(this.exampleRectangle);
 
-       
-
        const words = ['hi1', 'bye1'];
        for(let i=0; i < words.length; i++)
        {
@@ -39,13 +37,13 @@ export class ExampleApp extends gfx.GfxApp
 
     update(deltaTime: number): void 
     {
-        this.exampleRectangle.position.y += 0.01;
+        this.exampleRectangle.position.y += 0.005;
         //this.printHello();
     }
 
     private printHello(): void
     {
-        //console.log('Hello');
+        console.log('Hello');
     }
 
     onMouseDown(event: MouseEvent): void {
