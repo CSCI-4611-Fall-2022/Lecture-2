@@ -8,6 +8,13 @@ You can run the program on [GitHub pages](https://csci-4611-fall-2022.github.io/
 
 To work with this code, you will first need to install [Node.js](https://nodejs.org/en/) and [Visual Studio Code](https://code.visualstudio.com/). 
 
+I also recommend you install the following useful VS Code extensions:
+
+- GitLens (makes source control easier)
+- ESLint (static code analysis tool that can flag errors)
+- JavaScript Debugger (essential for real-time debugging)
+- WebGL GLSL Editor (used for programming shaders later in the course)
+
 ## Topics
 
 - Installation and setup
