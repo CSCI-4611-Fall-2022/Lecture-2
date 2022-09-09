@@ -1,4 +1,4 @@
-import * as gfx from './GopherGfx'
+import * as gfx from 'gophergfx'
 
 export class ExampleApp extends gfx.GfxApp
 {

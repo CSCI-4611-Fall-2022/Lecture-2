@@ -41,6 +41,10 @@ npm run start
 
 Webpack should launch your program in a web browser automatically.  If not, you can run it by pointing your browser at `http://localhost:8080`.
 
+## Notes
+
+The location of the GopherGfx source code differs from the lecture video.  After class, I added GopherGfx to the `package.json`, so it will automatically pull the latest version from the [GitHub repository](https://github.com/illusioneering/GopherGfx).  If you want to check out the source code, it is located in `node_modules/gophergfx`.
+
 ## License
 
 Material for [CSCI 4611 Fall 2022](https://csci-4611-fall-2022.github.io) by [Evan Suma Rosenberg](https://illusioneering.umn.edu/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
